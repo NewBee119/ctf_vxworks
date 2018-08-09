@@ -14,4 +14,7 @@ guesshash.c    碰撞hash值程序
 编译方式： gcc -o guesshash ./guesshash.c  
 运行方式：./guesshash
 
+**参考文章**  
+http://www.freebuf.com/vuls/177036.html  
+
 
